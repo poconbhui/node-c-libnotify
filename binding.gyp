@@ -1,7 +1,7 @@
 {
     "targets": [
         {
-            "target_name": "notify",
+            "target_name": "c-libnotify",
             "sources": [ "src/notify.cc" ],
             "libraries": [
                 "<!@(pkg-config --libs libnotify)"

@@ -1,1 +1,1 @@
-module.exports = require('./build/Release/notify');
+module.exports = require('./build/Release/c-libnotify');
