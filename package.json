@@ -1,0 +1,17 @@
+{
+  "name": "c-libnotify",
+  "version": "0.0.1",
+  "description": "A sparse C binding for libnotify.",
+  "main": "index.js",
+  "scripts": {
+    "install": "node-gyp rebuild"
+  },
+  "repository": "",
+  "keywords": [
+    "libnotify",
+    "notifications"
+  ],
+  "author": "Pádraig Ó Conbhuí",
+  "license": "BSD",
+  "gypfile": true
+}
